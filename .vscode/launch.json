@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "name": "AE",
+            "program": "${workspaceFolder}/src/main.js",
+            "stopOnEntry": false,
+            "trace": true
+        }
+    ]
+}
