@@ -4,8 +4,12 @@
   "description": "Quick-and-dirty scripts for After Effects, provided without warranty.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "extendscriptr --script src/main.js --output dist/main.js"
   },
   "author": "Alex Forsythe",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "extendscriptr": "^1.2.6"
+  }
 }
