@@ -1,0 +1,11 @@
+{
+  "name": "afafx",
+  "version": "1.0.0",
+  "description": "Quick-and-dirty scripts for After Effects, provided without warranty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Forsythe",
+  "license": "ISC"
+}
